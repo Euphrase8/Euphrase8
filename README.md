@@ -36,13 +36,21 @@
 
 ## 📂 Featured Projects  
 
-| Project | Tech | Preview | Repo |
-|---------|------|---------|------|
-| **Polling System** | React • Node.js • PostgreSQL | ![Polling System](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif) | [🔗 GitHub](https://github.com/Euphrase8/PollingSystem) |
-| **Portfolio Website** | React • TailwindCSS | ![Portfolio](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) | [🔗 GitHub](https://github.com/Euphrase8/Portfolio) |
-| **Task Manager API** | Node.js • PostgreSQL | ![Task API](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif) | [🔗 GitHub](https://github.com/Euphrase8/TaskManagerAPI) |  
+### 🗳️ Polling System  
+- **Tech:** React • Node.js • PostgreSQL  
+- **Repo:** [🔗 GitHub](https://github.com/Euphrase8/PollingSystem)  
 
 ---
+
+### 🌐 Portfolio Website  
+- **Tech:** React • TailwindCSS  
+- **Repo:** [🔗 GitHub](https://github.com/Euphrase8/Portfolio)  
+
+---
+
+### ✅ Task Manager API  
+- **Tech:** Node.js • PostgreSQL  
+- **Repo:** [🔗 GitHub](https://github.com/Euphrase8/TaskManagerAPI)  
 
 ## 📊 GitHub Stats  
 
