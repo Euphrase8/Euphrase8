@@ -36,21 +36,21 @@
 
 ## 📂 Featured Projects  
 
-### 🗳️ Polling System  
-- **Tech:** React • Node.js • PostgreSQL  
-- **Repo:** [🔗 GitHub](https://github.com/Euphrase8/PollingSystem)  
+<p align="center">
+  <strong>A selection of my recent projects showcasing full-stack development skills</strong>
+</p>
+
+<div align="center">
+
+| Project | Description | Tech Stack | Repository |
+|---------|-------------|------------|------------|
+| **Polling System** | A platform for creating and managing polls with real-time results. | React • Node.js • PostgreSQL | [🔗 GitHub](https://github.com/Euphrase8/PollingSystem) |
+| **Portfolio Website** | A personal portfolio site built with a modern design and responsive UI. | React • TailwindCSS | [🔗 GitHub](https://github.com/Euphrase8/Portfolio) |
+| **Task Manager API** | RESTful API for managing tasks with authentication and database integration. | Node.js • PostgreSQL | [🔗 GitHub](https://github.com/Euphrase8/TaskManagerAPI) |
+
+</div>  
 
 ---
-
-### 🌐 Portfolio Website  
-- **Tech:** React • TailwindCSS  
-- **Repo:** [🔗 GitHub](https://github.com/Euphrase8/Portfolio)  
-
----
-
-### ✅ Task Manager API  
-- **Tech:** Node.js • PostgreSQL  
-- **Repo:** [🔗 GitHub](https://github.com/Euphrase8/TaskManagerAPI)  
 
 ## 📊 GitHub Stats  
 
