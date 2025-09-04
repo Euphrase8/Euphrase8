@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Joachim Euphrase
+# Hi, I'm Joachim Euphrase
 
-🎓 4th Year Computer Engineering Student | Dar es Salaam Institute of Technology  
-💻 Full-Stack Developer | React • Node.js • PostgreSQL  
-🌐 Passionate about building modern, responsive, and scalable applications  
+4th Year Computer Engineering Student | Dar es Salaam Institute of Technology  
+Full-Stack Developer | React • Node.js • PostgreSQL  
+Passionate about building modern, responsive, and scalable applications  
 
 ---
 
-## 💡 Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Frontend
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)  
@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Tech | Preview | Repo |
 |---------|------|---------|------|
@@ -36,11 +36,10 @@
 | **Portfolio Website** | React • TailwindCSS | ![Portfolio](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) | [GitHub](https://github.com/Euphrase8/Portfolio) |
 | **Task Manager API** | Node.js • PostgreSQL | ![Task API](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif) | [GitHub](https://github.com/Euphrase8/TaskManagerAPI) |
 
-> 💡 Tip: Replace these GIFs with real screenshots or GIF recordings of your apps for maximum impact.
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Eaqm_)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255784425661)  
@@ -49,13 +48,13 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![Joachim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Euphrase8&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Euphrase8&layout=compact&theme=radical)  
 
 ---
 
-## 📅 Learning Timeline
+## Learning Timeline
 
 - **2022:** Started learning **React & Node.js**  
 - **2023:** Built small projects, learned **PostgreSQL**, contributed to open-source  
