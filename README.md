@@ -46,7 +46,7 @@
 |---------|-------------|------------|------------|
 | **Polling System** | A platform for creating and managing polls with real-time results. | React • Node.js • PostgreSQL | [GitHub](https://github.com/Euphrase8/PollingSystem) |
 | **Portfolio Website** | A personal portfolio site built with a modern design and responsive UI. | React • TailwindCSS | [GitHub](https://github.com/Euphrase8/Portfolio) |
-| **Task Manager API** | RESTful API for managing tasks with authentication and database integration. | Node.js • PostgreSQL | [GitHub](https://github.com/Euphrase8/TaskManagerAPI) |
+| **Nelainey Consulting Ltd** | RESTful API for managing functionalities with authentication and database integration. | Node.js • PostgreSQL | [GitHub](https://github.com/Euphrase8/nelainey) |
 
 </div>  
 
