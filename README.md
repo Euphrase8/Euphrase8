@@ -57,6 +57,7 @@ I specialize in designing and delivering full-stack business systems with strong
 | MADEAF Laundry | <https://madeaf.devhubinc.com> | Laundry service platform focused on pickup, cleaning workflow, and delivery operations. |
 | Nelainey Consulting | <https://nelainey.co.tz> | Professional consulting web platform for client outreach and business presence. |
 | DevCloud System (CloudOne Horizon) | <https://devcloud.devhubinc.com> | Cloud operations platform for scalable service workflows and infrastructure-oriented use cases. |
+| TUCASASTU Platform | <https://tucasastu.co.tz> | Digital platform for TUCSA STU engagement, communication, and student-focused service workflows. |
 
 ---
 
